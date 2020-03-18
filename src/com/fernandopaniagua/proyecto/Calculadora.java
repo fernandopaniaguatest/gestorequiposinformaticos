@@ -15,4 +15,8 @@ public class Calculadora {
         float resultado = s1 * s2;
         return resultado;
     }
+    
+    private void saludar(){
+        System.out.println("Hola mundo");
+    }
 }
